@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>circled-left.png</file>
+    <file>circled-right.png</file>
+    <file>memory.png</file>
+  </qresource>
+</RCC>
