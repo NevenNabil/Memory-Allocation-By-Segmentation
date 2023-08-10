@@ -17,3 +17,15 @@ segments of this process and consider their spaces holes to be used later and ad
 any neighboring holes) 
 4- Initial between holes spaces are considered old processes and user can choose to deallocate one 
 of these old processes
+# Output:
+Your output is a drawing representing memory allocation as shown in below figure 
+P1: Code
+P2:Data
+Hole0
+Old Process
+IV. BONUS:
+1- Worst fit option 
+2- External compaction: shuffling memory contents to place all free memory (holes) together in 
+one large block 
+3- Error checking on inputs 
+4- Any extra non required useful addition to the project
