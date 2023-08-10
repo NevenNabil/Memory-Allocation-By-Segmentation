@@ -23,7 +23,7 @@ P1: Code
 P2:Data
 Hole0
 Old Process
-IV. BONUS:
+# BONUS:
 1- Worst fit option 
 2- External compaction: shuffling memory contents to place all free memory (holes) together in 
 one large block 
